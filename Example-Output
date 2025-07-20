@@ -1,0 +1,159 @@
+acherontas@raspberrypi:~/codeblock/classified_TBL_ARM64/bin/Debug $ ./classified_TBL_ARM64 /home/acherontas/codeblock/classified_TBL_ARM64/a.txt 0 1
+voyeristic behaviours and others have fun xD
+exoume kai leme xD  : 1:diadromi arxeiou pinakon 2:analisi pinakon [0-1] 3:allagi vasis gia kathe lexi[0-1] 
+
+give a seperator
+|
+
+your seperator |
+
+give a word
+Geia|sas|elpizo|na|to|klepsete|kai|na|vreite|position|@|h3r3
+
+you give Geia|sas|elpizo|na|to|klepsete|kai|na|vreite|position|@|h3r3
+
+new word is Geia|sas|elpizo|na|to|klepsete|kai|na|vreite|position|@|h3r3|
+
+Arithmos lexeon 12
+------------------------
+
+1 with Geia
+Enter base 3 6 or 9 
+3
+Geia with base 3
+
+2 with sas
+Enter base 3 6 or 9 
+6
+sas with base 6
+
+3 with elpizo
+Enter base 3 6 or 9 
+6
+elpizo with base 6
+
+4 with na
+Enter base 3 6 or 9 
+9
+na with base 9
+
+5 with to
+Enter base 3 6 or 9 
+3
+to with base 3
+
+6 with klepsete
+Enter base 3 6 or 9 
+6
+klepsete with base 6
+
+7 with kai
+Enter base 3 6 or 9 
+9
+kai with base 9
+
+8 with na
+Enter base 3 6 or 9 
+6
+na with base 6
+
+9 with vreite
+Enter base 3 6 or 9 
+6
+vreite with base 6
+
+10 with position
+Enter base 3 6 or 9 
+3
+position with base 3
+
+11 with @
+Enter base 3 6 or 9 
+6
+@ with base 6
+
+12 with h3r3
+Enter base 3 6 or 9 
+9
+h3r3 with base 9
+------------------------
+
+result  PWDRTYULZO XSFGHJKI QE CBM A VN @#+-! 012345 67 89 pdre wtuyzo nmabvcf qisghjl xk q |\/[]* $%^& ()_= { } <>.?
+
+the lines creates 22 tables in memory 
+moving out of the unfold with value : 0
+
+
+generating with 1 and 0 and base of 3
+
+moving with lexi Geia
+generating with 4423 and 1 and base of 3
+
+moving with lexi sas
+generating with 333 and 1 and base of 6
+
+moving with lexi elpizo
+generating with 471256 and 1 and base of 6
+
+moving with lexi na
+generating with 13 and 1 and base of 9
+
+moving with lexi to
+generating with 26 and 1 and base of 3
+
+moving with lexi klepsete
+generating with 27413424 and 1 and base of 6
+
+moving with lexi kai
+generating with 232 and 1 and base of 9
+
+moving with lexi na
+generating with 13 and 1 and base of 6
+
+moving with lexi vreite
+generating with 534224 and 1 and base of 6
+
+moving with lexi position
+generating with 16322261 and 1 and base of 3
+
+moving with lexi @
+generating with 1 and 1 and base of 6
+
+moving with lexi h3r3
+generating with 5434 and 1 and base of 9
+
+
+word is : Geia|sas|elpizo|na|to|klepsete|kai|na|vreite|position|@|h3r3|
+
+Semi-Code :  4423 333 471256 13 26 27413424 232 13 534224 16322261 1 5434 
+
+with base : 3 6 6 9 3 6 9 6 6 3 6 9 
+
+Final Encoding : 8819 333 285419 86 16 48253242 767 53 132442 26911162 5 4565 
+
+--------------------------
+With Encoding :  G:24  e:114  i:142  a:133   s:143  a:133  s:143   e:114  l:147  p:111  i:142  z:125  o:126   n:131  a:133   t:122  o:126   k:152  l:147  e:114  p:111  s:143  e:114  t:122  e:114   k:152  a:133  i:142   n:131  a:133   v:135  r:113  e:114  i:142  t:122  e:114   p:111  o:126  s:143  i:142  t:122  i:142  o:126  n:131   @:71   h:145  3:84  r:113  3:84  
+and seperator | with Number 1 And Generating Number  2
+with value of : O as 01
+with value of : I as 012
+with value of : E as 013
+with value of : M as 014
+with value of : A as 015
+with value of : N as 016
+with value of : ! as 017
+with value of : 5 as 018
+with value of : 7 as 019
+with value of : 9 as 0110
+with value of : e as 0111
+with value of : o as 0112
+with value of : f as 0113
+with value of : l as 0114
+with value of : k as 0115
+with value of : q as 0116
+with value of : * as 0117
+with value of : & as 0118
+with value of : = as 0119
+with value of : { as 0120
+with value of : } as 0121
+with value of : ? as 0122
+--------------------------
